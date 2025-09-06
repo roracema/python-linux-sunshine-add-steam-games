@@ -48,3 +48,4 @@ The script will handle the rest, including restarting Steam and Sunshine, to ens
 Credits
 
 This script is based on the original work by CommonMugger.
+(https://github.com/CommonMugger/Sunshine-App-Automation)

@@ -32,3 +32,19 @@ Before running the script, you must update the following paths in update_sunshin
     STEAMGRIDDB_API_KEY: Your personal API key from SteamGridDB.
 
 Once configured, you can run the script to automatically update your Sunshine game list.
+Usage
+
+After installing the prerequisites and configuring the file paths in update_sunshine_apps.py, you can run the script from your terminal.
+
+    Open your terminal or command prompt.
+
+    Navigate to the directory where you have saved the update_sunshine_apps.py file.
+
+    Run the script using the following command:
+
+    python update_sunshine_apps.py
+
+The script will handle the rest, including restarting Steam and Sunshine, to ensure all changes are applied correctly.
+Credits
+
+This script is based on the original work by CommonMugger.
